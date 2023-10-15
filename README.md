@@ -11,8 +11,11 @@
 
 # Raspored predavanja: 
 13/10 - Uvodni čas
+
 16/10 - Zvezdani spektri
+
 23/10 - Spektri jonizovanih oblaka I
+
 30/10 - Interaktivna online vežba (Zoom)
 
 
