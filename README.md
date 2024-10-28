@@ -2,8 +2,6 @@
 
 # Interpretacija Astronomskih Spektara - Master Kurs
 
-## *Novo* : Online čas koji smo imali 30 Oktobra je na yt ovde: https://youtu.be/5WG3scPBLNE
-
 ## Osnovne informacije
 #### Predavanja su Ponedeljkom od 15:00 - 17:00 na katedri 
 #### Vezbe ne postoje, ali cemo imati nekoliko neformalnih domacih
